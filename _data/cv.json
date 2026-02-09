@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ashray Shetty",
+    "email": "ashrayshetty09@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ashrayshetty4.github.io",
+    "summary": "Currently pursuing my Masters at Stony Brook University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Stony Brook",
       "countryCode": "US",
       "region": ""
     },
@@ -25,8 +25,8 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "AshrayShetty4",
+        "url": "https://github.com/ashrayshetty4"
       }
     ]
   },
