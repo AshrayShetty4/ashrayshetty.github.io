@@ -1,6 +1,8 @@
 ---
 title: "Sharded Distributed Banking System"
-excerpt: "A Go-based sharded transactional platform using Multi-Paxos and Two-Phase Commit, sustaining 1000-1200 TPS.<br/><img src='/images/500x300.png'>"
+excerpt: "A Go-based sharded transactional platform using Multi-Paxos and Two-Phase Commit, sustaining 1000-1200 TPS."
+header:
+  teaser: "500x300.png"
 collection: portfolio
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Profanity Sir-Cuss"
-excerpt: "A Python data pipeline for lyric scraping and profanity analysis dataset generation.<br/><img src='/images/500x300.png'>"
+excerpt: "A Python data pipeline for lyric scraping and profanity analysis dataset generation."
+header:
+  teaser: "500x300.png"
 collection: portfolio
 ---
 
