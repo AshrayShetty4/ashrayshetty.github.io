@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sharded Distributed Banking System"
+excerpt: "A Go-based sharded transactional platform using Multi-Paxos and Two-Phase Commit, sustaining 1000-1200 TPS.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built a distributed banking platform in Go with shard-aware transaction routing, consensus-backed replication, and fault-tolerant coordination.
+
+Key points:
+- Implemented Multi-Paxos for replica consistency.
+- Added Two-Phase Commit for cross-shard transactions.
+- Used BoltDB for persistent storage and recovery.
+- Supported dynamic shard rebalancing under changing load.
+
+[View project on GitHub](https://github.com/AshrayShetty4/CSE535-2PC-Banking-System)
