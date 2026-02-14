@@ -1,4 +1,4 @@
-﻿---
+---
 title: "30-days-of-kotlin"
 excerpt: "A Kotlin timer app that continues counting down in the background."
 header:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stocker-Kalpana"
 excerpt: "Stock price prediction experiments over 1-5 years using Facebook Prophet."
 header:

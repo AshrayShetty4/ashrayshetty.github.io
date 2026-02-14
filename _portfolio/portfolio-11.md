@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Weather-Visualizer"
 excerpt: "A Python application that visualizes temperature and wind speed forecasts."
 header:

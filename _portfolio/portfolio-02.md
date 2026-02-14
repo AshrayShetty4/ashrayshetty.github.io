@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CSE535-BFT-Banking-System"
 excerpt: "A Byzantine fault-tolerant distributed banking system implementation in Go."
 header:

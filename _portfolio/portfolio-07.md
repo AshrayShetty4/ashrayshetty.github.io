@@ -1,4 +1,4 @@
-﻿---
+---
 title: "BloggerDjango"
 excerpt: "A blogging web application built using the Django framework."
 header:

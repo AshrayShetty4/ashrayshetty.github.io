@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Profanity-Sir-Cuss"
 excerpt: "A dataset and pipeline to analyze profanity in song lyrics with proxy rotation support."
 header:

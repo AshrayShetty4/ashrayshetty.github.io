@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CSE535-2PC-Banking-System"
 excerpt: "A practical, high-performance, sharded, fault-tolerant distributed transaction processing system."
 header:

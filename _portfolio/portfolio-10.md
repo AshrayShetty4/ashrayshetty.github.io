@@ -1,4 +1,4 @@
-﻿---
+---
 title: "omni-chat"
 excerpt: "An open-core chat system project aimed at unifying chat workflows."
 header:

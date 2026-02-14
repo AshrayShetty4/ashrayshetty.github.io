@@ -1,4 +1,4 @@
-﻿---
+---
 title: "JS-canvas"
 excerpt: "MS Paint for Windows 98 remastered in JavaScript canvas."
 header:

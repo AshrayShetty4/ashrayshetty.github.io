@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rainfall-Predictor"
 excerpt: "A machine learning project that predicts future rainfall from weather data."
 header:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bootleg-POKeGAME"
 excerpt: "A bootleg Pokemon game recreated in C# from an earlier Delphi version."
 header:
